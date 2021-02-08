@@ -41,12 +41,6 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
-    },
-    {
-      "name": "Schweed",
-      "image": "https://wmlearnver2.wmmota.com/wp-content/uploads/2020/07/IMG_5772-e1515048770462-768x432.jpg",
-      "price": "20.99",
-      "id": 8
     }
   ]
 }
